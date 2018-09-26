@@ -4,7 +4,7 @@
 
 > I almost completed the setup but ran into some problems with the configuration file not being read correctly.
 
-> I completed up until step 6 on this GitHub repository setup section: https://github.com/wtg/shuttletracker
+> I completed up until step 12 on this GitHub repository setup section: https://github.com/wtg/shuttletracker
 
 ## This Week's Plan
 
