@@ -4,11 +4,11 @@
 
 > I almost completed the setup but ran into some problems with the configuration file not being read correctly.
 
-> I completed up until step 6 on this GitHub repository setup section: https://github.com/wtg/shuttletracker
+> I completed up until step 12 on this GitHub repository setup section: https://github.com/wtg/shuttletracker 
 
 ## This Week's Plan
 
-> I plan to finish the setup on the shuttle tracker and successfully run it.
+> I plan to finish the setup on the shuttle tracker GitHub and successfully run it.
 
 > I also plan on familiarizing myself with the project and learning the other softwares I will be using.
 
