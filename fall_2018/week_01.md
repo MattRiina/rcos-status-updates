@@ -1,22 +1,17 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+> In the previous week, I worked to try to setup the shuttle tracker to run on my computer.
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> I almost completed the setup but ran into some problems with the configuration file not being read correctly.
+
+> I completed up until step 6 on this GitHub repository setup section: https://github.com/wtg/shuttletracker
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
+> I plan to finish the setup on the shuttle tracker and successfully run it.
 
-> Examples: New Bugs to be fixed, Design choices
+> I also plan on familiarizing myself with the project and learning the other softwares I will be using.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> At runtime, the configuration file is not read correctly, which may be due to the encoding of the file. The file seems to have newline characters of /r/n, where the software is trying to read newlines as \n, which is an indicator that the file is not encoded correctly.
